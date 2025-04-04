@@ -32,6 +32,8 @@
     <Compile Include="Soccer_IQ\views.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Soccer_IQ\models\" />
+    <Folder Include="Soccer_IQ\data\" />
     <Folder Include="Soccer_IQ\" />
     <Folder Include="Soccer_IQ\static\" />
     <Folder Include="Soccer_IQ\static\content\" />
