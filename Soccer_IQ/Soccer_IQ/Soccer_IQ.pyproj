@@ -28,6 +28,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="runserver.py" />
+    <Compile Include="Soccer_IQ\data\mongoDB_data.py" />
+    <Compile Include="Soccer_IQ\models\matches_odds.py" />
     <Compile Include="Soccer_IQ\__init__.py" />
     <Compile Include="Soccer_IQ\views.py" />
   </ItemGroup>
